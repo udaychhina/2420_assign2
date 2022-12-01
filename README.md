@@ -120,7 +120,6 @@ http:// {
 3 directories, 14 files
 ```
 
-```
 
 For this tutorial I will use node and the fastify package. We will install
 node with Volta. 
